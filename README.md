@@ -8,9 +8,7 @@ This Power BI project analyzes airline performance with a focus on flight punctu
 ---
 
 ## ✈️ Airline Performance Dashboard
-<p align="center">
-  <img src="Dashboard/airline_overview.png" width="900"/>
-</p>
+![Real Estate Analytics Dashboard](https://github.com/sapnagangad/Flight_Performance_Dashboard/blob/main/Dashboards/Airline%20Performance%20Overview.png)
 
 ---
 
