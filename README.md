@@ -1,5 +1,7 @@
 # ✈️ Airline Performance Analytics Dashboard | Power BI
 
+![Real Estate Analytics Dashboard](https://i.pinimg.com/originals/c6/45/00/c6450010843e46830f1d60e53b162857.jpg)
+
 ## 📌 Project Overview
 This Power BI project analyzes airline performance with a focus on flight punctuality, delays, cancellations, and operational efficiency. The dashboard helps identify trends across airlines and time periods for data-driven aviation insights.
 
