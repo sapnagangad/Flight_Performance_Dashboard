@@ -30,7 +30,7 @@ This Power BI project analyzes airline performance with a focus on flight punctu
 ---
 
 ## 📁 Dashboard Images
-🔗 [View Dashboard Screenshots](./Dashboard)
+🔗 [View Dashboard Screenshots](https://github.com/sapnagangad/Flight_Performance_Dashboard/tree/main/Dashboards)
 
 ---
 
